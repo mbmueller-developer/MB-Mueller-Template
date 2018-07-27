@@ -1,7 +1,7 @@
 {
     "version"           :   "0.0.1",
     "license"           :   "AGPL-3.0",
-    "name"              :   "MBMueller",
+    "name"              :   "MBMueller-Template",
     "marketplaceName"   :   {"de":"MBMueller","en":"MBMueller"},
     "pluginIcon"        :   "icon_plugin_xs.png",
     "authorIcon"        :   "icon_author_xs.png",
